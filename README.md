@@ -2,7 +2,7 @@
 # EE-474-Introduction-to-Embedded-Systems
 ## UW Summer 2021
 
-EE/CSE 474 
+EE/CSE 474 is an introduction to embedded systems course. For this course we used the Tiva TM4C1294 and IAR Embedded Workbench. 
 
 ## Course Description (from canvas page)
 The course introduces students to the fundamentals of embedded-systems design for practical applications that solve real-world challenges. The course provides an overview of the various building blocks of embedded systems and provides a balance between hardware and software aspects of embedded systems with lab experiments to demonstrate and explain core concepts.
